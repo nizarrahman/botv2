@@ -79,10 +79,9 @@ const defaultMenu = {
   after: `
 ──···────────────────···──
 
-Base Script : *BOTCAHX*
-Recode Script : *Private*
+Yang Punya Script : *Nizar Rahman*
 
-⫹⫺ TioXd 
+⫹⫺ Nizar Rahman 
 ${'```WhatsApp Multi Device```'}
 `,
 }
