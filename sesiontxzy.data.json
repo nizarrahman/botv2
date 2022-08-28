@@ -1,1 +1,70 @@
-ISI SESSION LU
+{
+  "creds": {
+    "noiseKey": {
+      "private": {
+        "type": "Buffer",
+        "data": "SOiBDE/7IW41NqbI6XHxSLil/2RKGo6hw2wxq+J1b0s="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "JMVkm2atEgOJYLwMlgPz/3vXkV+oFyXdVFISfdezRH0="
+      }
+    },
+    "signedIdentityKey": {
+      "private": {
+        "type": "Buffer",
+        "data": "8InLuZxOPsX0jI6AnpVSBYLigd2GKIcFpJnvIWTcT1s="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "H4T1DYwtmWL//GHzxwhE/o8hjD+nmOWyjRz2+Imo4Wk="
+      }
+    },
+    "signedPreKey": {
+      "keyPair": {
+        "private": {
+          "type": "Buffer",
+          "data": "ELnGpP3ayALnMAqyjzbvNy+HDR5KH/lVMzXmn7tB5lk="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "azqXX9VwgEvHIvlYa5Gj3U+BXfctiRmkyBZWo/8hPkM="
+        }
+      },
+      "signature": {
+        "type": "Buffer",
+        "data": "gROZpWGyNn67ZV5nDISrC47aIYhLWnNHYznwjMU2Gs/yQ5YCFDWbGTYiotSOJASmv+ia6j7AJNooe/0oJ1j2BA=="
+      },
+      "keyId": 1
+    },
+    "registrationId": 248,
+    "advSecretKey": "nPg896rcZidZUUGqNTzbj+kOPhR73Dp9dGW0cJX8YAA=",
+    "processedHistoryMessages": [
+      {
+        "key": {
+          "remoteJid": "79303907397@s.whatsapp.net",
+          "fromMe": true,
+          "id": "AFF5BEC275568EE8DFA39D0914D4A9D3"
+        },
+        "messageTimestamp": 1661651106
+      },
+      {
+        "key": {
+          "remoteJid": "79303907397@s.whatsapp.net",
+          "fromMe": true,
+          "id": "D4A95C2E780C2285890152C1A8CFD285"
+        },
+        "messageTimestamp": 1661651106
+      }
+    ],
+    "nextPreKeyId": 31,
+    "firstUnuploadedPreKeyId": 31,
+    "accountSettings": {
+      "unarchiveChats": false
+    },
+    "account": {
+      "details": "CImygb0DEJmRq5gGGAk=",
+      "accountSignatureKey": "jOWwtJhRN2KD+FhRi+CyIjmKTaHZj89RdsY8oZmf2S0=",
+      "accountSignature": "y4J5bLzS3bam3vTHHmQIQpWPLaz6INglNC2dyyv3TsezD6i5w5YCx9bgceZnG/i6k2kkt2TDlkIb01W0GOZNCA==",
+      "deviceSignature": "aAiSMLExrfPsr+DPN/1QaNGJZVSvjaBho9He3R2AwMIMbqA9K1CrzcL+XHoxqsZlObswWT1jY2JdnZAZvC1IDw=="
+    },
